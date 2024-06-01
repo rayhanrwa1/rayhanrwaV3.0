@@ -29,7 +29,7 @@ const Header = () => {
                     <img
                       width={228}
                       height={38}
-                      src="Logo.png"
+                      src="assets/images/Logo/logo.svg"
                       alt=""
                     />
                   </a>
